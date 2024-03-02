@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="py-kek",
     version="0.0.1",
-    author="ncalincov",
+    author="CalincovNicolai",
     author_email="nicolai.calincov@gmail.com",
     url="",
     description="KEK lib",

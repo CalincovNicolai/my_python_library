@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="py-kek",
+    name="kek",
     version="0.0.1",
     author="CalincovNicolai",
     author_email="nicolai.calincov@gmail.com",
@@ -14,5 +14,5 @@ setup(
         "Operating System :: OS Independent",
     ],
 
-    entry_points={"console_scripts": ["py-kek = py-kek.main:download"]},
+    entry_points={"console_scripts": ["kek = kek.main:main"]},
 )
